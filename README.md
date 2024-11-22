@@ -6,9 +6,6 @@
 
 🚩 CTF Player.
 
-
-<img src="https://files.oaiusercontent.com/file-QDdASlJH5ppofQ3d1ifo5j3m?se=2024-11-22T02%3A22%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D8e08b381-c234-47df-95d0-e345a21c114e.webp&sig=pMBAyo55OqXtlo2Q994zjFMRTQlIBqvZ0zG1LXym3bo%3D" alt="KRPT Banner">
-
 ---
 
 ## 🛠️ **Tech Stack**
@@ -38,6 +35,10 @@
 - 📜 **Offensive Security**: Exploits, persistence mechanisms, and evasion techniques  
 
 ---
+
+## 💻 **CTF Machines**
+
+
 
 ## 📈 **Stats**
 
