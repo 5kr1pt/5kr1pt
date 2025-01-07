@@ -38,7 +38,7 @@
 
 ## 💻 **CTF Machines**
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/5kr1pt.png" alt="Your Image Badge" />
 
 ## 📈 **Stats**
 
