@@ -6,7 +6,6 @@
 
 🚩 CTF Player.
 
-x
 ---
 
 ## 🛠️ **Tech Stack**
