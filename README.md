@@ -1,4 +1,4 @@
-# 👾 KRPT | Malware Analysis, Pentester & Cybersecurity Enthusiast
+# 👾 Malware Analysis, Pentester & Cybersecurity Enthusiast
 
 💀 Focused on malware analysis, reverse engineering, and offensive security.  
 
