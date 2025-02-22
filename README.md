@@ -23,8 +23,18 @@
   <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-  
 </div>
+
+---
+
+## 🥇 **Certification & Badges**
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A" target="_blank">
+    <img alt="SC-900 Badge" height="90" width="90" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main">
+  </a>
+  <br />
+  <strong style="color: white; font-size: 12px;">SC-900</strong>
+</p>
 
 ---
 
