@@ -27,7 +27,7 @@
 
 ---
 
-## 🥇 **Certification & Badges**
+## 🥇 **Certifications & Badges**
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A" target="_blank">
     <img alt="SC-900 Badge" height="90" width="90" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main">
@@ -46,9 +46,15 @@
 
 ---
 
-## 💻 **CTF Machines**
+## 💻 **TryHackme**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="badge" />
+
+---
+
+## 💻 **HackTheBox**
+
+---
 
 ## 📈 **Stats**
 
