@@ -48,7 +48,7 @@
 
 ## 💻 **TryHackme**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="badge" width="500">
 
 ---
 
