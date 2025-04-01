@@ -1,6 +1,6 @@
-# 👾 Malware Analysis, Pentester & Cybersecurity Enthusiast
+# 👾 Pentester & Cybersecurity Enthusiast
 
-💀 Focused on malware analysis, reverse engineering, and offensive security.  
+💀 Focused on Offensive security.  
 
 ⚙️ Exploring vulnerabilities, developing tools, and studying threat evasion techniques.
 
