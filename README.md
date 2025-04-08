@@ -1,4 +1,4 @@
-# 👾 Pentester & Cybersecurity Enthusiast
+# 👾 Offensive Security Analyst & Cybersecurity Enthusiast
 
 💀 Focused on Offensive security.  
 
@@ -28,27 +28,27 @@
 ---
 
 ## 🥇 **Certifications & Badges**
-<p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A" target="_blank">
-    <img alt="SC-900 Badge" height="90" width="90" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main">
-  </a>
-  <br />
-  <strong style="color: white; font-size: 12px;">SC-900</strong>
-</p>
+
+| Badge | Cert |
+|:-----:|:----:|
+| <p align="center" style="vertical-align:top;"><a href="[LINK_DO_SC900](https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A)" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900 Badge" width="90" height="90"></a><br><strong>Microsoft<br>SC-900</strong></p> | <p align="center" style="vertical-align:top;"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Penteste Badge" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> |
+
 
 ---
 
 ## ⚡ **Key Skills**
 - 🌐 **Web Vulnerabilities**: Exploiting SQL Injection, XSS, CSRF, and authentication flaws  
 - 🧩 **Reverse Engineering**: Binary analysis and decompilation  
-- 🛡️ **Malware Development**: Research and creation of proof-of-concept threats  
-- 📜 **Offensive Security**: Exploits, persistence mechanisms, and evasion techniques  
+- 🛡️ **Malware Analysis**: Research and creation of proof-of-concept threats  
+- 📜 **Offensive Security**: Vuln Web, Exploits, persistence mechanisms, and evasion techniques  
 
 ---
 
 ## 💻 **TryHackme**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="ma Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="xxxxxxxx" />
+
+<!-- KRPT{y0u-f0und-4-fl4g} -->
 
 ---
 
