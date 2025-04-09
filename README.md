@@ -65,6 +65,16 @@
 
 ---
 
+<div align="left">
+  <h2>🐍 **Contribuição**</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/5kr1pt/5kr1pt/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+---
+
+
 ## 🌐 **Connect with me**
 
 <div>
