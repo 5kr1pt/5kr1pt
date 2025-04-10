@@ -65,7 +65,7 @@
 
 ---
 
-## 🐍 **Contribuição**
+## 🐍 **Contribution**
   <img alt="snake eating my contributions" src="github-user-contribution.svg" />
 </div>
 
