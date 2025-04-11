@@ -43,7 +43,8 @@
 - 📜 **Offensive Security**: Vuln Web, Exploits, persistence mechanisms, and evasion techniques  
 
 ---
-
+## 💻 **TryHackMe**
+<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="ge" />
 
 
 <!-- KRPT{y0u-f0und-4-fl4g} -->
