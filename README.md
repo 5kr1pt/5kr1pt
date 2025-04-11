@@ -59,8 +59,8 @@
 
 <div align="center">
   <a href="https://github.com/5kr1pt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=5kr1pt&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kr1pt&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=5kr1pt&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kr1pt&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
   </a>
 </div>
 
@@ -68,8 +68,7 @@
 
 ## 🐍 **Contribution**
 <div align="center">
-
-![snake gif](https://github.com/5kr1pt/5kr1pt/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/5kr1pt/5kr1pt/blob/output/github-snake-dark.svg" width="1000px">
 </div>
 
 ---
