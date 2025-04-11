@@ -22,9 +22,9 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Commit e push da animação
-        uses: wearerequired/git-action@v1.2.0
+        uses: EndBug/add-and-commit@v9
         with:
-          commit_message: Atualiza snake.svg
-          push_options: --force
+          commit_message: "Atualiza snake.svg"
+          add: "dist/snake.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
