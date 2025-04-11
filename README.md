@@ -67,7 +67,9 @@
 ---
 
 ## 🐍 **Contribution**
-  <img alt="snake eating my contributions" src="github-user-contribution.svg" />
+<div>
+
+![snake gif](https://github.com/5kr1pt/5kr1pt/blob/output/github-snake-dark.svg)
 </div>
 
 ---
