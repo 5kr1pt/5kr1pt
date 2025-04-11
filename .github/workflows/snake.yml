@@ -19,7 +19,7 @@ jobs:
         uses: platane/snk@v2
         with:
           github_user_name: 5kr1pt
-          output: dist/snake.svg
+          outputs: dist/snake.svg
 
       - name: Verificar arquivos gerados
         run: ls -al dist/
