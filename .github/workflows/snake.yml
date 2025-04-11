@@ -1,25 +1,28 @@
 name: Generate Snake
 
 on:
-  schedule:    # Agenda para rodar periodicamente
-    - cron: "0 0 * * *"  # Todo dia à meia-noite (UTC)
-  workflow_dispatch:  # Permite rodar manualmente
+  schedule:
+    - cron: "0 0 * * *"  # rola todo dia à meia-noite (UTC)
+  workflow_dispatch:
   push:
     branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Clonar repositório
         uses: actions/checkout@v2
 
       - name: Gerar Snake
-        uses: platane/snk@v2
+        uses: Platane/snk@2.2.1
         with:
-          github_user_name: 5kr1pt
-          outputs: dist/snake.svg
+          # substitua pelo seu nome de usuário do GitHub
+          github_user_name: "5kr1pt"
+          # você pode acrescentar outros parâmetros, como:
+          # branches: "main"
+          # excluded: "stars,commits" etc. 
+          # se quiser customizar
 
       - name: Verificar arquivos gerados
         run: ls -al dist/
@@ -27,7 +30,8 @@ jobs:
       - name: Commit e push da animação
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Atualiza snake.svg"
-          add: "dist/snake.svg"
+          message: "Atualiza snake"
+          # Faz commit de tudo que está em dist/, inclusive svg e gif
+          add: "dist/*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
