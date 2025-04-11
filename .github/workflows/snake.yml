@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule:    # agenda para rodar periodicamente
-    - cron: "0 0 * * *"  # todo dia à meia-noite (UTC)
-  workflow_dispatch:  # permite rodar manualmente
+  schedule:    # Agenda para rodar periodicamente
+    - cron: "0 0 * * *"  # Todo dia à meia-noite (UTC)
+  workflow_dispatch:  # Permite rodar manualmente
   push:
     branches: [ main ]
 
@@ -19,15 +19,15 @@ jobs:
         uses: platane/snk@v2
         with:
           github_user_name: 5kr1pt
-          outputs: dist/snake.svg
+          output: dist/snake.svg
+
+      - name: Verificar arquivos gerados
+        run: ls -al dist/
 
       - name: Commit e push da animação
         uses: EndBug/add-and-commit@v9
         with:
-          # Parâmetro correto é "message" (não "commit_message")
           message: "Atualiza snake.svg"
           add: "dist/snake.svg"
-          # Se quiser "forçar" o push (cuidado ao usar), pode adicionar:
-          # push_options: --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
