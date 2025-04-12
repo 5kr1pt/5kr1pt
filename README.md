@@ -44,7 +44,14 @@
 
 ---
 ## 💻 **TryHackMe**
-<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="YBad" />
+<!--<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="YBad" />-->
+
+<div align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="YBad" />
+  <img src="images/top.png" alt="Top" width="180" style="margin-left: 20px;"/>
+</div>
+
+
 
 <!-- KRPT{y0u-f0und-4-fl4g} -->
 
