@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" />
+
 # 👾 Offensive Security Analyst & Cybersecurity Enthusiast
 
 💀 Focused on Offensive security.  
