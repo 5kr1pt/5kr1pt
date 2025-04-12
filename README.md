@@ -33,6 +33,37 @@
 |:-----:|:----:|
 | <p align="center" style="vertical-align:top;"><a href="[LINK_DO_SC900](https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A)" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900 Badge" width="90" height="90"></a><br><strong>Microsoft<br>SC-900</strong></p> | <p align="center" style="vertical-align:top;"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Penteste Badge" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> |
 
+## 🔜 Próximas Certificações
+
+<table>
+  <tr>
+        <!-- Comptia CySA+ (90%) -->
+    <td align="center">
+      <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png" alt="CYsa" width="110" height="90"><br>
+      <strong>Comptia CySA+</strong><br>
+      <img src="https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="90%">
+    </td>
+    <!-- Comptia Security+ (10%) -->
+    <td align="center">
+      <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full" alt="Security+" width="110" height="100"><br>
+      <strong>Comptia Security+</strong><br>
+      <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="10%">
+    </td>
+    <!-- eJPT (20%) -->
+    <td align="center">
+      <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="EJPT" width="75" height="90"><br>
+      <strong>eJPT</strong><br>
+      <img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="20%">
+    </td>
+    <!-- CPTS (HackTheBox) (50%) -->
+    <td align="center">
+      <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png" alt="CPTS" width="140" height="90"><br>
+      <strong>CPTS (HackTheBox)</strong><br>
+      <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="50%">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -51,13 +82,13 @@
   <img src="images/top.png" alt="Top" width="180" style="margin-left: 20px;"/>
 </div>
 
-
-
 <!-- KRPT{y0u-f0und-4-fl4g} -->
 
 ---
 
 ## 💻 **HackTheBox**
+
+> ⚠️ In progress...
 
 ---
 
@@ -90,9 +121,15 @@
 ## 🌐 **Connect with me**
 
 <div>
-  <a href="mailto:pgwerneck5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-g-werneck-4199b9256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://tryhackme.com/p/krpt" target="_blank"><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="90" height="40" alt="Logo TryHackMe"target="_blank"></a>
+  <a href="mailto:pgwerneck5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-g-werneck-4199b9256/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://tryhackme.com/p/krpt" target="_blank">
+    <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="90" height="40" alt="Logo TryHackMe">
+  </a>
 </div>
 
 ---
