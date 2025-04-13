@@ -1,4 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" />
+<br>
+<div align="center">
+  <img src="images/hello.gif" alt="Hello World! I'm Paulo (5kr1pt) 👋" width="600" height="400">
+</div>
+
+Welcome to my GitHub! I'm passionate about offensive security and always exploring new cybersecurity tools and techniques—and sharing them here.
+
+Want to know more about me? Check out my portfolio below and explore my projects:
+
+<a href="https://5kr1pt.github.io/krpt" target="_blank">
+  <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-blueviolet?style=for-the-badge&logo=appveyor" alt="Portfolio" />
+</a>
 
 # 👾 Offensive Security Analyst & Cybersecurity Enthusiast
 
