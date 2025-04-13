@@ -1,11 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" />
+
 <div align="center">
-  <img src="images/hello.gif" alt="Hello World! I'm Paulo (5kr1pt) 👋">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=13AC00&center=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I'm+Paulo+(5kr1pt)+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 </div>
 
 <br>
 
-Welcome to my GitHub! I'm passionate about offensive security and always exploring new cybersecurity tools and techniques—and sharing them here.
+Welcome to my GitHub! I'm passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
 
 Want to know more about me? Check out my portfolio below and explore my projects:
 
