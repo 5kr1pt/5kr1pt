@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" />
-<br>
 <div align="center">
-  <img src="images/hello.gif" alt="Hello World! I'm Paulo (5kr1pt) 👋" width="600" height="400">
+  <img src="images/hello.gif" alt="Hello World! I'm Paulo (5kr1pt) 👋">
 </div>
+
+<br>
 
 Welcome to my GitHub! I'm passionate about offensive security and always exploring new cybersecurity tools and techniques—and sharing them here.
 
