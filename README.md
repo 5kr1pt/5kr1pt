@@ -4,15 +4,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=13AC00&center=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I'm+Paulo+(5kr1pt)+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 </div>
 
-<br>
+---
 
 Welcome to my GitHub! I'm passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
 
 Want to know more about me? Check out my portfolio below and explore my projects:
 
 <a href="https://5kr1pt.github.io/krpt" target="_blank">
-  <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-blueviolet?style=for-the-badge&logo=appveyor" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-darkgreen?style=for-the-badge&logo=appveyor" alt="Portfolio" />
 </a>
+
+---
 
 # 👾 Offensive Security Analyst & Cybersecurity Enthusiast
 
