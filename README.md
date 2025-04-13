@@ -83,6 +83,12 @@ Want to know more about me? Check out my portfolio below and explore my projects
       <strong>CPTS (HackTheBox)</strong><br>
       <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="50%">
     </td>
+    <!-- OSCP (OffSec) (0%) -->
+    <td align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:600/1*s8MxzwgcQkCNsBImh2t1vw.png" alt="CPTS" width="90" height="90"><br>
+      <strong>OSCP (Offensive Security)</strong><br>
+      <img src="https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="0%">
+    </td>    
   </tr>
 </table>
 
