@@ -8,7 +8,7 @@
 
 ---
 
-Welcome to my GitHub! I'm passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
+Welcome to my GitHub! I'm Paulo G. Werneck, passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
 
 Want to know more about me? Check out my portfolio below and explore my projects:
 
