@@ -107,7 +107,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 
 <div align="left">
   <a href="https://tryhackme.com/p/krpt">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="Be" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="xb" />
     <img src="images/top.png" alt="Top" width="180" style="margin-left: 20px;"/>
 </div>
 
