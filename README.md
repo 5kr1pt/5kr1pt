@@ -139,7 +139,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 
 ---
 
-## 🐍 **Contribution**
+## 🐍 **Contributions**
 <div align="center">
   <img src="https://github.com/5kr1pt/5kr1pt/blob/output/github-snake-dark.svg" width="1000px">
 </div>
