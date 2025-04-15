@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Paulo G. Werneck, passionate about offensive security 
 Want to know more about me? Check out my portfolio below and explore my projects:
 
 <a href="https://5kr1pt.github.io/krpt" target="_blank">
-  <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-darkgreen?style=for-the-badge&logo=appveyor" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-darkgreen?style=for-the-badge&logo=appveyor" alt="Port" />
 </a>
 
 ---
