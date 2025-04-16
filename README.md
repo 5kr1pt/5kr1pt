@@ -79,7 +79,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
     </td>
     <!-- CPTS (HackTheBox) (50%) -->
     <td align="center">
-      <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png" alt="CPTS" width="140" height="90"><br>
+      <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png" alt="CPTS" width="147" height="100"><br>
       <strong>CPTS (HackTheBox)</strong><br>
       <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="50%">
     </td>
