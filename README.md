@@ -59,36 +59,60 @@ Want to know more about me? Check out my portfolio below and explore my projects
 
 <table>
   <tr>
-        <!-- Comptia CySA+ (90%) -->
+    <!-- CompTIA CySA+ (90 %) -->
     <td align="center">
-      <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png" alt="CYsa" width="110" height="90"><br>
-      <strong>Comptia CySA+</strong><br>
-      <img src="https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="90%">
+      <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png"
+           alt="CompTIA CySA+"
+           width="110" height="90"><br>
+      <strong>CompTIA CySA+</strong><br>
+      <img src="https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="90 % progress">
     </td>
-    <!-- Comptia Security+ (10%) -->
+    <!-- CompTIA Security+ (10 %) -->
     <td align="center">
-      <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full" alt="Security+" width="110" height="100"><br>
-      <strong>Comptia Security+</strong><br>
-      <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="10%">
+      <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full"
+           alt="CompTIA Security+"
+           width="110" height="100"><br>
+      <strong>CompTIA Security+</strong><br>
+      <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="10 % progress">
     </td>
-    <!-- eJPT (20%) -->
+    <!-- eJPT (20 %) -->
     <td align="center">
-      <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="EJPT" width="75" height="90"><br>
+      <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png"
+           alt="eJPT"
+           width="80" height="90"><br>
       <strong>eJPT</strong><br>
-      <img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="20%">
+      <img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="20 % progress">
     </td>
-    <!-- CPTS (HackTheBox) (50%) -->
+    <!-- CPTS (HackTheBox) (50 %) -->
     <td align="center">
-      <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png" alt="CPTS" width="147" height="100"><br>
-      <strong>CPTS (HackTheBox)</strong><br>
-      <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="50%">
+      <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png"
+           alt="CPTS (HackTheBox)"
+           width="147" height="100"><br>
+      <strong>CPTS (HackTheBox)</strong><br>
+      <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="50 % progress">
     </td>
-    <!-- OSCP (OffSec) (0%) -->
+    <!-- OSCP (OffSec) (0 %) -->
     <td align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:600/1*s8MxzwgcQkCNsBImh2t1vw.png" alt="CPTS" width="90" height="90"><br>
-      <strong>OSCP (Offensive Security)</strong><br>
-      <img src="https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="0%">
-    </td>    
+      <img src="https://miro.medium.com/v2/resize:fit:600/1*s8MxzwgcQkCNsBImh2t1vw.png"
+           alt="OSCP (Offensive Security)"
+           width="90" height="90"><br>
+      <strong>OSCP (Offensive Security)</strong><br>
+      <img src="https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="0 % progress">
+    </td>
+    <!-- eWPTX v2 (0 %) -->
+    <td align="center">
+      <img src="https://s4vitar.github.io/assets/images/eWPTxv2/eWPTxv2.png"
+           alt="eWPTX v2"
+           width="120" height="90"><br>
+      <strong>eWPTX v2</strong><br>
+      <img src="https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="0 % progress">
+    </td>
   </tr>
 </table>
 
