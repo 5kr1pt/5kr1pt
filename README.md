@@ -81,7 +81,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
     <td align="center">
       <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png"
            alt="eJPT"
-           width="80" height="90"><br>
+           width="100" height="90"><br>
       <strong>eJPT</strong><br>
       <img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600"
            alt="20 % progress">
