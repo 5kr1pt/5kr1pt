@@ -21,7 +21,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </a>
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 # 👾 Offensive Security Analyst & Cybersecurity Enthusiast
@@ -33,7 +33,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 🚩 CTF Player.
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 ## 🛠️ **Tech Stack**
@@ -54,7 +54,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </div>
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 ## 🥇 **Certifications & Badges**
@@ -64,7 +64,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 | <p align="center" style="vertical-align:top;"><a href="[c](https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A)" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900 Badge" width="90" height="90"></a><br><strong>Microsoft<br>SC-900</strong></p> | <p align="center" style="vertical-align:top;"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Penteste Badge" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> |
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 ## 🔜 **Upcoming Certifications**
@@ -138,7 +138,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </table>
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 ## ⚡ **Key Skills**
@@ -160,7 +160,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 <!-- KRPT{y0u-f0und-4-fl4g} -->
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 ## 💻 **HackTheBox**
@@ -168,7 +168,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 > ⚠️ In progress...
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 ## 📈 **Stats**
@@ -188,7 +188,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </div>
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 ## 🐍 **Contributions**
@@ -197,7 +197,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </div>
 
 <!-- Divider roxa -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/purple_divider.png"
+<img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
 
 ## 🌐 **Connect with me**
