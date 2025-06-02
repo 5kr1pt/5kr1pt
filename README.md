@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" />
+<a href="https://github.com/5kr1pt" target="_blank">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" alt="visitor badge" />
+</a>
 
 <!-- Divider -->
 <img src="images/green_to_purple_divider.png"
@@ -20,8 +22,10 @@ Want to know more about me? Check out my portfolio below and explore my projects
   <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-darkgreen?style=for-the-badge&logo=appveyor" alt="Port" />
 </a><br><br>
 
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/black_to_green_divider.png"
      alt="divider" width="100%" height="14">
+</a>
 
 # 👾 Offensive Security Analyst & Cybersecurity Enthusiast
 
@@ -31,8 +35,10 @@ Want to know more about me? Check out my portfolio below and explore my projects
 
 🚩 CTF Player.
 
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/black_to_green_divider.png"
      alt="divider" width="100%" height="14">
+</a>
      
 ## 🛠️ Tech Stack
 
@@ -56,9 +62,11 @@ Want to know more about me? Check out my portfolio below and explore my projects
   <img align="center" alt="Kali Linux"   height="45" width="45" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU">
 
 </div>
-
-<br><img src="images/black_to_green_divider.png"
+<br>
+<a href="https://github.com/5kr1pt" target="_blank">
+<img src="images/black_to_green_divider.png"
      alt="divider" width="100%" height="14">
+</a>
 
 ## 🥇 **Certifications & Badges**
 
@@ -67,8 +75,10 @@ Want to know more about me? Check out my portfolio below and explore my projects
 | <p align="center" style="vertical-align:top;"><a href="[c](https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A)" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900 Badge" width="90" height="90"></a><br><strong>Microsoft<br>SC-900</strong></p> | <p align="center" style="vertical-align:top;"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Penteste Badge" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> |
 
 <!-- Divider -->
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/green_to_purple_divider.png"
      alt="divider" width="100%" height="14">
+</a>
 
 ## 🔜 **Upcoming Certifications**
 
@@ -141,8 +151,10 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </table>
 
 <!-- Divider roxa -->
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="14">
+</a>
 
 ## ⚡ **Key Skills**
 - 🌐 **Web Vulnerabilities**: Exploiting SQL Injection, XSS, CSRF, and authentication flaws  
@@ -151,8 +163,10 @@ Want to know more about me? Check out my portfolio below and explore my projects
 - 📜 **Offensive Security**: Vuln Web, Exploits, persistence mechanisms, and evasion techniques  
 
 <!-- Divider roxa -->
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="14">
+</a>
 ## 💻 **TryHackMe**
 <!--<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="YBad" />-->
 
@@ -165,16 +179,20 @@ Want to know more about me? Check out my portfolio below and explore my projects
 <!-- KRPT{y0u-f0und-4-fl4g} -->
 
 <!-- Divider roxa -->
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="14">
+</a>
 
 ## 💻 **HackTheBox**
 
 > ⚠️ In progress...
 
 <!-- Divider roxa -->
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="14">
+</a>
 
 ## 📈 **Stats**
 <!--
@@ -194,8 +212,10 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </div>
 
 <!-- Divider roxa -->
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="14">
+</a>
 
 ## 🐍 **Contributions**
 <div align="center">
@@ -203,8 +223,10 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </div>
 
 <!-- Divider roxa -->
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="3">
+</a>
 
 ## 🌐 **Connect with me**
 
@@ -221,7 +243,9 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </div>
 
 <!-- Divider roxa -->
+<a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="8">
+</a>
 
 > **"The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing."**
