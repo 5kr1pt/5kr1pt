@@ -20,9 +20,9 @@ Want to know more about me? Check out my portfolio below and explore my projects
   <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-darkgreen?style=for-the-badge&logo=appveyor" alt="Port" />
 </a>
 
-<!-- Divider roxa -->
-<br><br><img src="images/purple_divider.png"
-     alt="purple divider" width="100%" height="14"><br><br>
+<!-- Divider -->
+<img src="images/matrix_divider.png"
+     alt="divider" width="100%" height="14">
 
 # 👾 Offensive Security Analyst & Cybersecurity Enthusiast
 
@@ -33,23 +33,30 @@ Want to know more about me? Check out my portfolio below and explore my projects
 🚩 CTF Player.
 
 <!-- Divider roxa -->
-<br><br><img src="images/purple_divider.png"
-     alt="purple divider" width="100%" height="14"><br><br>
+<img src="images/purple_divider.png"
+     alt="purple divider" width="100%" height="14"><br>
      
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Burp" height="40" width="40" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
-  <img align="center" alt="Nmap" height="40" width="40" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
-  <img align="center" alt="DIE" height="40" width="40" src="https://appimage.github.io/database/Detect_It_Easy/icons/256x256/die.png">
-  <img align="center" alt="PEStudio" height="40" width="40" src="https://images2.imgbox.com/64/f0/EyhKJesQ_o.jpg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Bash" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div style="display:inline_block"><br>
+  <img align="center" alt="ParrotOs"   height="40" width="40" src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9">
+  <img align="center" alt="Python"       height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="C"            height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="SQL"          height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Linux"        height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Bash"         height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Metasploit"   height="40" width="40" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490">
+  <img align="center" alt="Burp Suite"   height="40" width="40" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
+  <img align="center" alt="Nmap"         height="40" width="40" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
+  <img align="center" alt="Wireshark"    height="40" width="40" src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_2eT4Ah.png">
+  <img align="center" alt="OWASP ZAP"    height="40" width="40" src="https://www.3elos.com.br/blog/images/zap-logo.png">
+  <img align="center" alt="SQLMap"       height="40" width="40" src="images/sqlmap.png">
+  <img align="center" alt="Hashcat"      height="40" width="40" src="https://www.myqnap.org/wp-content/uploads/hashcat-icon.png">
+  <img align="center" alt="John the Ripper" height="40" width="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2024/08/com.openwall.John.png">
+  <img align="center" alt="Detect It Easy" height="40" width="40" src="https://appimage.github.io/database/Detect_It_Easy/icons/256x256/die.png">
+  <img align="center" alt="PEStudio"    height="40" width="40" src="https://images2.imgbox.com/64/f0/EyhKJesQ_o.jpg">
+  <img align="center" alt="Kali Linux"   height="40" width="40" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU">
 
 </div>
 
