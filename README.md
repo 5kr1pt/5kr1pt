@@ -83,7 +83,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 ## 🔜 **Upcoming Certifications**
 
 <table>
-  <!-- PRIMEIRA LINHA – logo + título -->
+  <!-- Linha 1 – logos + títulos -->
   <tr>
     <td align="center" width="160">
       <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png"
@@ -122,33 +122,36 @@ Want to know more about me? Check out my portfolio below and explore my projects
       <strong>eWPTX v2</strong>
     </td>
   </tr>
+
+  <!-- Linha 2 – barras de progresso -->
   <tr>
     <td align="center">
       <img src="https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="95 % progress">
-        <td align="center">
-      <img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="85 % progress">
+           alt="95% progress">
     </td>
+    <td align="center">
+      <img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="85% progress">
     </td>
     <td align="center">
       <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="75 % progress">
+           alt="75% progress">
     </td>
     <td align="center">
       <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="5 % progress">
+           alt="5% progress">
     </td>
     <td align="center">
       <img src="https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="4 % progress">
+           alt="4% progress">
     </td>
     <td align="center">
       <img src="https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="0 % progress">
+           alt="0% progress">
     </td>
   </tr>
 </table>
+
 
 <!-- Divider roxa -->
 <a href="https://github.com/5kr1pt" target="_blank">
