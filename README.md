@@ -3,7 +3,7 @@
 </a>
 
 <!-- Divider -->
-<img src="images/green_to_purple_divider.png"
+<img src="images/green_purple_green_divider.png"
      alt="divider" width="100%" height="4">
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <!-- Divider -->
-<img src="images/green_to_purple_divider.png"
+<img src="images/green_purple_green_divider.png"
      alt="divider" width="100%" height="4">
 
 Welcome to my GitHub! <br> I'm Paulo G. Werneck, passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
