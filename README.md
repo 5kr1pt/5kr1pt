@@ -92,16 +92,16 @@ Want to know more about me? Check out my portfolio below and explore my projects
       <strong>CompTIA CySA+</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full"
-           alt="CompTIA Security+"
-           height="90" style="width:auto; object-fit:contain;"><br>
-      <strong>CompTIA Security+</strong>
-    </td>
-    <td align="center" width="160">
       <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png"
            alt="eJPT"
            height="90" style="width:auto; object-fit:contain;"><br>
       <strong>eJPT</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full"
+           alt="CompTIA Security+"
+           height="90" style="width:auto; object-fit:contain;"><br>
+      <strong>CompTIA Security+</strong>
     </td>
     <td align="center" width="160">
       <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png"
@@ -126,14 +126,14 @@ Want to know more about me? Check out my portfolio below and explore my projects
     <td align="center">
       <img src="https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600"
            alt="95 % progress">
+        <td align="center">
+      <img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="85 % progress">
+    </td>
     </td>
     <td align="center">
       <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600"
            alt="75 % progress">
-    </td>
-    <td align="center">
-      <img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="85 % progress">
     </td>
     <td align="center">
       <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600"
