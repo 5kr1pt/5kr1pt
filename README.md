@@ -1,16 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" />
 
 <!-- Divider -->
-<img src="images/matrix_divider.png"
-     alt="divider" width="100%" height="1">
+<img src="images/green_to_purple_divider.png"
+     alt="divider" width="100%" height="4">
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=13AC00&center=true&vCenter=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I'm+Paulo+(5kr1pt)+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 </div>
 
 <!-- Divider -->
-<img src="images/matrix_divider.png"
-     alt="divider" width="100%" height="1">
+<img src="images/green_to_purple_divider.png"
+     alt="divider" width="100%" height="4">
 
 Welcome to my GitHub! <br> I'm Paulo G. Werneck, passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
 
@@ -67,9 +67,9 @@ Want to know more about me? Check out my portfolio below and explore my projects
 |:-----:|:----:|
 | <p align="center" style="vertical-align:top;"><a href="[c](https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A)" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900 Badge" width="90" height="90"></a><br><strong>Microsoft<br>SC-900</strong></p> | <p align="center" style="vertical-align:top;"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Penteste Badge" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> |
 
-<!-- Divider roxa -->
-<img src="images/purple_divider.png"
-     alt="purple divider" width="100%" height="14">
+<!-- Divider -->
+<img src="images/green_to_purple_divider.png"
+     alt="divider" width="100%" height="14">
 
 ## 🔜 **Upcoming Certifications**
 
