@@ -18,10 +18,9 @@ Want to know more about me? Check out my portfolio below and explore my projects
 
 <a href="https://5kr1pt.github.io/krpt" target="_blank">
   <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-darkgreen?style=for-the-badge&logo=appveyor" alt="Port" />
-</a>
+</a><br><br>
 
-<!-- Divider -->
-<img src="images/matrix_divider.png"
+<img src="images/black_to_green_divider.png"
      alt="divider" width="100%" height="14">
 
 # 👾 Offensive Security Analyst & Cybersecurity Enthusiast
@@ -32,9 +31,8 @@ Want to know more about me? Check out my portfolio below and explore my projects
 
 🚩 CTF Player.
 
-<!-- Divider roxa -->
-<img src="images/purple_divider.png"
-     alt="purple divider" width="100%" height="14"><br>
+<img src="images/black_to_green_divider.png"
+     alt="divider" width="100%" height="14">
      
 ## 🛠️ Tech Stack
 
@@ -60,9 +58,8 @@ Want to know more about me? Check out my portfolio below and explore my projects
 
 </div>
 
-<!-- Divider roxa -->
-<br><br><img src="images/purple_divider.png"
-     alt="purple divider" width="100%" height="14"><br><br>
+<br><img src="images/black_to_green_divider.png"
+     alt="divider" width="100%" height="14">
 
 ## 🥇 **Certifications & Badges**
 
