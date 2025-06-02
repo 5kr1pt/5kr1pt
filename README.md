@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" />
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/matrix_divider.png"
+<img src="https://raw.githubusercontent.com/5kr1pt/5kr1pt/main/matrix_divider.png"
      alt="divider" width="100%" height="2">
 
 <div align="center">
