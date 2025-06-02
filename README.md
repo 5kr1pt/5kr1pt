@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" />
 
----
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/<SEU-USUARIO>/<SEU-REPO>/main/matrix_divider.png"
+     alt="divider" width="100%" height="2">
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=13AC00&center=true&vCenter=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I'm+Paulo+(5kr1pt)+%F0%9F%91%8B+" alt="Typing SVG" /></a>
