@@ -21,14 +21,19 @@
 </p>
 
 <p align="center" style="max-width:700px; margin:auto; font-size:16px;">
-  Want to know more about me? Check out my portfolio below and explore my projects:
+  Want to know more about me? Check out my portfolio and LinkedIn below:
 </p>
 
 <p align="center">
   <a href="https://5kr1pt.github.io/krpt" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Cyber%20Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Visit My Portfolio">
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pgw-script" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
 </p>
+
 
 
 <a href="https://github.com/5kr1pt" target="_blank">
