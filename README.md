@@ -3,7 +3,7 @@
 </a>
 
 <!-- Divider -->
-<img src="images/green_purple_green_divider.png"
+<img src="images/dark_cyan_purple_red_divider.png"
      alt="divider" width="100%" height="4">
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <!-- Divider -->
-<img src="images/green_purple_green_divider.png"
+<img src="images/dark_cyan_purple_red_divider.png"
      alt="divider" width="100%" height="4">
 
 Welcome to my GitHub! <br> I'm Paulo G. Werneck, passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
@@ -23,7 +23,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </a><br><br>
 
 <a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/black_to_green_divider.png"
+<img src="images/dark_cyan_purple_red_divider.png"
      alt="divider" width="100%" height="14">
 </a>
 
@@ -36,7 +36,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 🚩 CTF Player.
 
 <a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/black_to_green_divider.png"
+<img src="images/dark_cyan_purple_red_divider.png"
      alt="divider" width="100%" height="14">
 </a>
      
@@ -64,7 +64,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 </div>
 <br>
 <a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/black_to_green_divider.png"
+<img src="images/dark_cyan_purple_red_divider.png"
      alt="divider" width="100%" height="14">
 </a>
 
