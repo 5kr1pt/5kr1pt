@@ -14,7 +14,7 @@
 <img src="images/dark_cyan_purple_red_divider.png"
      alt="divider" width="100%" height="1">
 
-<h1 align="center" style="font-size:36px;">👋 Welcome to my GitHub!</h1>
+<h1 align="center" style="font-size:36px;">🌐 Welcome to my GitHub!</h1>
 
 <p align="center" style="max-width:700px; margin:auto; font-size:16px;">
   I'm <strong>Paulo G. Werneck</strong>, passionate about <strong>offensive security</strong>, always exploring new cybersecurity tools and techniques, and sharing them here.
@@ -184,6 +184,7 @@
 <img src="images/purple_divider.png"
      alt="purple divider" width="100%" height="14">
 </a>
+
 ## 💻 **TryHackMe**
 <!--<img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="YBad" />-->
 
