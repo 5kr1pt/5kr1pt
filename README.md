@@ -17,7 +17,7 @@
 <h1 align="center" style="font-size:36px;">🌐 Welcome to my GitHub!</h1>
 
 <p align="center" style="max-width:700px; margin:auto; font-size:16px;">
-  I'm <strong>Paulo G. Werneck</strong>, passionate about <strong>offensive security</strong>, always exploring new cybersecurity tools and techniques, and sharing them here.
+  I'm <strong>Paulo G. Werneck</strong>, passionate about <strong>offensive security</strong>. I'm always learning, testing tools, and sharing techniques that I find useful.
 </p>
 
 <p align="center" style="max-width:700px; margin:auto; font-size:16px;">
