@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=13AC00&center=true&vCenter=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I'm+Paulo+(5kr1pt)+%F0%9F%91%8B+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=9C27B0&center=true&vCenter=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I%27m+Paulo+(5kr1pt)+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -252,7 +252,7 @@
   <a href="mailto:pgwerneck5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/paulo-g-werneck-4199b9256/" target="_blank">
+  <a href="https://www.linkedin.com/in/pgw-script" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://tryhackme.com/p/krpt" target="_blank">
