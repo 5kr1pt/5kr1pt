@@ -3,16 +3,13 @@
 </a>
 
 <!-- Divider -->
-<img src="images/dark_cyan_purple_red_divider.png"
-     alt="divider" width="100%" height="4">
+---
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=13AC00&center=true&vCenter=true&width=1000&height=60&lines=%24+%3E+Hello+World!+I'm+Paulo+(5kr1pt)+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 </div>
 
-<!-- Divider -->
-<img src="images/dark_cyan_purple_red_divider.png"
-     alt="divider" width="100%" height="4">
+---
 
 Welcome to my GitHub! <br> I'm Paulo G. Werneck, passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
 
@@ -76,7 +73,7 @@ Want to know more about me? Check out my portfolio below and explore my projects
 
 <!-- Divider -->
 <a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/green_to_purple_divider.png"
+<img src="images/red_to_purple_divider.png"
      alt="divider" width="100%" height="14">
 </a>
 
