@@ -1,8 +1,9 @@
 <a href="https://github.com/5kr1pt" target="_blank">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" alt="visitor badge" />
 </a>
+<img src="images/dark_cyan_purple_red_divider.png"
+     alt="divider" width="100%" height="1">
 
-<!-- Divider -->
 ---
 
 <div align="center">
@@ -10,14 +11,25 @@
 </div>
 
 ---
+<img src="images/dark_cyan_purple_red_divider.png"
+     alt="divider" width="100%" height="1">
 
-Welcome to my GitHub! <br> I'm Paulo G. Werneck, passionate about offensive security and always exploring new cybersecurity tools and techniques, and sharing them here.
+<h1 align="center" style="font-size:36px;">👋 Welcome to my GitHub!</h1>
 
-Want to know more about me? Check out my portfolio below and explore my projects:
+<p align="center" style="max-width:700px; margin:auto; font-size:16px;">
+  I'm <strong>Paulo G. Werneck</strong>, passionate about <strong>offensive security</strong>, always exploring new cybersecurity tools and techniques, and sharing them here.
+</p>
 
-<a href="https://5kr1pt.github.io/krpt" target="_blank">
-  <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-darkgreen?style=for-the-badge&logo=appveyor" alt="Port" />
-</a><br><br>
+<p align="center" style="max-width:700px; margin:auto; font-size:16px;">
+  Want to know more about me? Check out my portfolio below and explore my projects:
+</p>
+
+<p align="center">
+  <a href="https://5kr1pt.github.io/krpt" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Cyber%20Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Visit My Portfolio">
+  </a>
+</p>
+
 
 <a href="https://github.com/5kr1pt" target="_blank">
 <img src="images/dark_cyan_purple_red_divider.png"
