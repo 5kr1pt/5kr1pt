@@ -144,8 +144,8 @@
            alt="95% progress">
     </td>
     <td align="center">
-      <img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="85% progress">
+      <img src="https://geps.dev/progress/93?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="93% progress">
     </td>
     <td align="center">
       <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600"
