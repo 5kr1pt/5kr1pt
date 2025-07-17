@@ -102,7 +102,7 @@
     <td align="center" width="160">
       <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3"
            alt="eJPT"
-           height="90" style="width:auto; object-fit:contain;"><br>
+           height="100" style="width:auto; object-fit:contain;"><br>
       <strong>eJPT</strong>
     </td>
     <td align="center" width="160">
