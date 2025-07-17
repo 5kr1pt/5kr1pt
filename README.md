@@ -106,7 +106,7 @@
       <strong>CompTIA CySA+</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png"
+      <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3"
            alt="eJPT"
            height="90" style="width:auto; object-fit:contain;"><br>
       <strong>eJPT</strong>
