@@ -100,16 +100,16 @@
   <!-- Linha 1 – logos + títulos -->
   <tr>
     <td align="center" width="160">
-      <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png"
-           alt="CompTIA CySA+"
-           height="90" style="width:auto; object-fit:contain;"><br>
-      <strong>CompTIA CySA+</strong>
-    </td>
-    <td align="center" width="160">
       <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3"
            alt="eJPT"
            height="90" style="width:auto; object-fit:contain;"><br>
       <strong>eJPT</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png"
+           alt="CompTIA CySA+"
+           height="90" style="width:auto; object-fit:contain;"><br>
+      <strong>CompTIA CySA+</strong>
     </td>
     <td align="center" width="160">
       <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full"
@@ -140,12 +140,12 @@
   <!-- Linha 2 – barras de progresso -->
   <tr>
     <td align="center">
-      <img src="https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="95% progress">
-    </td>
-    <td align="center">
       <img src="https://geps.dev/progress/98?dangerColor=800000&warningColor=ff9900&successColor=006600"
            alt="98% progress">
+    </td>
+    <td align="center">
+      <img src="https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600"
+           alt="95% progress">
     </td>
     <td align="center">
       <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600"
