@@ -84,15 +84,16 @@
 
 ## 🥇 **Certifications & Badges**
 
-| Badge | Cert |
-|:-----:|:----:|
-| <p align="center" style="vertical-align:top;"><a href="[c](https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A)" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900 Badge" width="90" height="90"></a><br><strong>Microsoft<br>SC-900</strong></p> | <p align="center" style="vertical-align:top;"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Penteste Badge" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> |
+| Badge | Cert | Badge |
+|:--:|:--:|:--:|
+| <p align="center" style="vertical-align:top;"><a href="https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900 Badge" width="90" height="90"></a><br><strong>Microsoft<br>SC-900</strong></p> | <p align="center" style="vertical-align:top;"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Pentest Badge" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> | <p align="center" style="vertical-align:top;"><a href="https://certs.ine.com/5d48fef9-f80d-48e5-b258-ab2e9264ccd9#acc.8tAzxbMD" target="_blank"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPT Badge" width="90" height="90"></a><br><strong>INE<br>eJPT v2</strong></p> |
 
 <!-- Divider -->
 <a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/red_to_purple_divider.png"
-     alt="divider" width="100%" height="14">
+<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
 </a>
+
+
 
 ## 🔜 **Upcoming Certifications**
 
@@ -100,71 +101,47 @@
   <!-- Linha 1 – logos + títulos -->
   <tr>
     <td align="center" width="160">
-      <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3"
-           alt="eJPT"
-           height="100" style="width:auto; object-fit:contain;"><br>
-      <strong>eJPT</strong>
-    </td>
-    <td align="center" width="160">
       <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png"
            alt="CompTIA CySA+"
-           height="90" style="width:auto; object-fit:contain;"><br>
+           height="90"><br>
       <strong>CompTIA CySA+</strong>
     </td>
     <td align="center" width="160">
       <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full"
            alt="CompTIA Security+"
-           height="90" style="width:auto; object-fit:contain;"><br>
+           height="90"><br>
       <strong>CompTIA Security+</strong>
     </td>
     <td align="center" width="160">
       <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png"
            alt="CPTS (HackTheBox)"
-           height="90" style="width:auto; object-fit:contain;"><br>
+           height="90"><br>
       <strong>CPTS (HackTheBox)</strong>
     </td>
     <td align="center" width="160">
       <img src="https://miro.medium.com/v2/resize:fit:600/1*s8MxzwgcQkCNsBImh2t1vw.png"
            alt="OSCP (Offensive Security)"
-           height="90" style="width:auto; object-fit:contain;"><br>
+           height="90"><br>
       <strong>OSCP (Offensive Security)</strong>
     </td>
     <td align="center" width="160">
       <img src="https://s4vitar.github.io/assets/images/eWPTxv2/eWPTxv2.png"
            alt="eWPTX v2"
-           height="90" style="width:auto; object-fit:contain;"><br>
+           height="90"><br>
       <strong>eWPTX v2</strong>
     </td>
   </tr>
 
   <!-- Linha 2 – barras de progresso -->
   <tr>
-    <td align="center">
-      <img src="https://geps.dev/progress/98?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="98% progress">
-    </td>
-    <td align="center">
-      <img src="https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="95% progress">
-    </td>
-    <td align="center">
-      <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="75% progress">
-    </td>
-    <td align="center">
-      <img src="https://geps.dev/progress/25?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="25% progress">
-    </td>
-    <td align="center">
-      <img src="https://geps.dev/progress/4?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="4% progress">
-    </td>
-    <td align="center">
-      <img src="https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600"
-           alt="0% progress">
-    </td>
+    <td align="center"><img src="https://geps.dev/progress/95" alt="95% progress"></td>
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75% progress"></td>
+    <td align="center"><img src="https://geps.dev/progress/25" alt="25% progress"></td>
+    <td align="center"><img src="https://geps.dev/progress/4" alt="4% progress"></td>
+    <td align="center"><img src="https://geps.dev/progress/0" alt="0% progress"></td>
   </tr>
 </table>
+
 
 
 <!-- Divider roxa -->
