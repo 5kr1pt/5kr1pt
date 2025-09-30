@@ -100,12 +100,18 @@
 <table>
   <!-- Linha 1 – logos + títulos -->
   <tr>
+        </td>
+        <td align="center" width="160">
+      <img src="https://miro.medium.com/v2/resize:fit:800/1*0p3BxNyEBX9h4-ciOiCFSg.png"
+           alt="CRTA"
+           height="90"><br>
+      <strong>CyberWarfare - [CRTA]</strong>
+    </td>
     <td align="center" width="160">
       <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png"
            alt="CompTIA CySA+"
            height="90"><br>
       <strong>CompTIA CySA+</strong>
-    </td>
     <td align="center" width="160">
       <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full"
            alt="CompTIA Security+"
@@ -134,6 +140,7 @@
 
   <!-- Linha 2 – barras de progresso -->
   <tr>
+    <td align="center"><img src="https://geps.dev/progress/98" alt="98% progress"></td>
     <td align="center"><img src="https://geps.dev/progress/95" alt="95% progress"></td>
     <td align="center"><img src="https://geps.dev/progress/75" alt="75% progress"></td>
     <td align="center"><img src="https://geps.dev/progress/25" alt="25% progress"></td>
