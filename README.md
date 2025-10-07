@@ -108,15 +108,15 @@
       <strong>CyberWarfare - [CRTA]</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png"
-           alt="CompTIA CySA+"
-           height="90"><br>
-      <strong>CompTIA CySA+</strong>
-    <td align="center" width="160">
       <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full"
            alt="CompTIA Security+"
            height="90"><br>
       <strong>CompTIA Security+</strong>
+    <td align="center" width="160">
+      <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png"
+           alt="CompTIA CySA+"
+           height="90"><br>
+      <strong>CompTIA CySA+</strong>
     </td>
     <td align="center" width="160">
       <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png"
@@ -141,8 +141,8 @@
   <!-- Linha 2 – barras de progresso -->
   <tr>
     <td align="center"><img src="https://geps.dev/progress/98" alt="98% progress"></td>
-    <td align="center"><img src="https://geps.dev/progress/95" alt="95% progress"></td>
-    <td align="center"><img src="https://geps.dev/progress/75" alt="75% progress"></td>
+    <td align="center"><img src="https://geps.dev/progress/85" alt="95% progress"></td>
+    <td align="center"><img src="https://geps.dev/progress/85" alt="95% progress"></td>
     <td align="center"><img src="https://geps.dev/progress/25" alt="25% progress"></td>
     <td align="center"><img src="https://geps.dev/progress/4" alt="4% progress"></td>
     <td align="center"><img src="https://geps.dev/progress/0" alt="0% progress"></td>
