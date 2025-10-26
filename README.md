@@ -60,9 +60,9 @@
   <img align="center" alt="ParrotOs"   height="45" width="45" src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9">
   <img align="center" alt="Python"       height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript"   height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="SQL"          height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQL"          height="45" width="45" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png">
   <img align="center" alt="Linux"        height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Bash"         height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Bash"         height="45" width="45" src="https://play-lh.googleusercontent.com/3uDZbNRzzbv-80moVQ_ompa4HnQ6G9ZNVid5tQYWhc9y-LXTzdr-DD55e-H-MChTzsM=w240-h480-rw">
   <img align="center" alt="Metasploit"   height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490">
   <img align="center" alt="Burp Suite"   height="45" width="45" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
   <img align="center" alt="Nmap"         height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
