@@ -152,14 +152,14 @@
 
 <img src="images/purple_divider.png" alt="divider" width="100%" height="14">
 
-## 📈 Stats
+<!--## 📈 Stats
 
 <div align="center">
   <a href="https://github.com/5kr1pt">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=5kr1pt&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kr1pt&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
   </a>
-</div>
+</div> -->
 
 <img src="images/purple_divider.png" alt="divider" width="100%" height="14">
 
