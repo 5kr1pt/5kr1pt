@@ -50,7 +50,7 @@
 <div>
   <img align="center" alt="Parrot OS"       height="45" width="45" src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9">
   <img align="center" alt="Kali Linux"      height="45" width="45" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU">
-  <img align="center" alt="Linux"           height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png">
+  <!--<img align="center" alt="Linux"           height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png">-->
   <img align="center" alt="Python"          height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript"      height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bash"            height="45" width="45" src="https://play-lh.googleusercontent.com/3uDZbNRzzbv-80moVQ_ompa4HnQ6G9ZNVid5tQYWhc9y-LXTzdr-DD55e-H-MChTzsM=w240-h480-rw">
