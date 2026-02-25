@@ -88,37 +88,37 @@
 <table>
   <tr>
     <td align="center" width="160">
-      <img src="https://miro.medium.com/v2/resize:fit:800/1*0p3BxNyEBX9h4-ciOiCFSg.png" alt="CRTA" height="90"><br>
-      <strong>CyberWarfare<br>[CRTA]</strong>
+      <img src="badges/crta.webp" alt="CRTA" height="90"><br>
+      <strong>CRTA<br>CyberWarfare</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-png.8/full" alt="CompTIA Security+" height="90"><br>
-      <strong>CompTIA Security+</strong>
+      <img src="badges/cwhi.png" alt="CWHI" height="90"><br>
+      <strong>CWHI<br>HackingClub</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://ava.cecyber.com/wp-content/uploads/2023/07/CySAplus-Logo.png" alt="CompTIA CySA+" height="90"><br>
-      <strong>CompTIA CySA+</strong>
+      <img src="badges/ewptx.svg" alt="eWPTXv2" height="90"><br>
+      <strong>eWPTXv2<br>eLearnSecurity</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png" alt="CPTS (HackTheBox)" height="90"><br>
-      <strong>CPTS (HackTheBox)</strong>
+      <img src="badges/cwes.png" alt="CWES" height="90"><br>
+      <strong>CWES<br>HackTheBox</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://miro.medium.com/v2/resize:fit:600/1*s8MxzwgcQkCNsBImh2t1vw.png" alt="OSCP (Offensive Security)" height="90"><br>
-      <strong>OSCP (Offensive Security)</strong>
+      <img src="badges/cpts.png" alt="CPTS" height="90"><br>
+      <strong>CPTS<br>HackTheBox</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://s4vitar.github.io/assets/images/eWPTxv2/eWPTxv2.png" alt="eWPTX v2" height="90"><br>
-      <strong>eWPTX v2</strong>
+      <img src="badges/oscp.png" alt="OSCP" height="90"><br>
+      <strong>OSCP<br>Offensive Security</strong>
     </td>
   </tr>
   <tr>
     <td align="center"><img src="https://geps.dev/progress/98" alt="98%"></td>
-    <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td>
-    <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td>
+    <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td>
+    <td align="center"><img src="https://geps.dev/progress/60" alt="60%"></td>
+    <td align="center"><img src="https://geps.dev/progress/30" alt="30%"></td>
     <td align="center"><img src="https://geps.dev/progress/25" alt="25%"></td>
     <td align="center"><img src="https://geps.dev/progress/4"  alt="4%"></td>
-    <td align="center"><img src="https://geps.dev/progress/0"  alt="0%"></td>
   </tr>
 </table>
 
@@ -137,7 +137,7 @@
 
 <div align="left">
   <a href="https://tryhackme.com/p/krpt" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="TryHackMe Badge" />
   </a>
   <img src="images/top.png" alt="Top TryHackMe" width="180" style="margin-left: 20px;" />
 </div>
@@ -159,7 +159,7 @@
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=5kr1pt&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kr1pt&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
   </a>
-</div> -->
+</div>-->
 
 <img src="images/purple_divider.png" alt="divider" width="100%" height="14">
 
