@@ -137,7 +137,7 @@
 
 <div align="left">
   <a href="https://tryhackme.com/p/krpt" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/krpt.png?update=1" alt="TryHackMe--Badge" />
   </a>
   <img src="images/top.png" alt="Top TryHackMe" width="180" style="margin-left: 20px;" />
 </div>
