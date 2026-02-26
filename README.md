@@ -155,10 +155,7 @@
 ## 📈 Stats
 
 <div align="center">
-  <a href="https://github.com/5kr1pt">
-    <img height="175em" src="https://metrics.lecoq.io/5kr1pt?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo&theme=dark" alt="GitHub Stats" />
-    <img height="175em" src="https://metrics.lecoq.io/5kr1pt?template=classic&base=&languages=1&languages.limit=7&languages.sections=most-used&languages.details=percentage&theme=dark" alt="Top Languages" />
-  </a>
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <img src="images/purple_divider.png" alt="divider" width="100%" height="14">
