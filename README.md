@@ -1,5 +1,5 @@
 <a href="https://github.com/5kr1pt" target="_blank">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5kr1pt.5kr1pt" alt="visitor badge" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=5kr1pt&color=13AC00&style=flat-square&label=visitors" alt="visitor badge" />
 </a>
 
 <img src="images/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="1">
@@ -47,25 +47,24 @@
 
 ## 🛠️ Tech Stack
 
-<div>
-  <img align="center" alt="Parrot OS"       height="45" width="45" src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9">
-  <img align="center" alt="Kali Linux"      height="45" width="45" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU">
-  <!--<img align="center" alt="Linux"           height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png">-->
-  <img align="center" alt="Python"          height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript"      height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bash"            height="45" width="45" src="https://play-lh.googleusercontent.com/3uDZbNRzzbv-80moVQ_ompa4HnQ6G9ZNVid5tQYWhc9y-LXTzdr-DD55e-H-MChTzsM=w240-h480-rw">
-  <img align="center" alt="SQL"             height="45" width="45" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png">
-  <img align="center" alt="Metasploit"      height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490">
-  <img align="center" alt="Burp Suite"      height="45" width="45" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
-  <img align="center" alt="Nmap"            height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
-  <img align="center" alt="Wireshark"       height="45" width="45" src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_2eT4Ah.png">
-  <img align="center" alt="OWASP ZAP"       height="45" width="45" src="https://www.3elos.com.br/blog/images/zap-logo.png">
-  <img align="center" alt="SQLMap"          height="45" width="45" src="images/sqlmap.png">
-  <img align="center" alt="Hashcat"         height="45" width="45" src="https://www.myqnap.org/wp-content/uploads/hashcat-icon.png">
-  <img align="center" alt="John the Ripper" height="45" width="45" src="https://dashboard.snapcraft.io/site_media/appmedia/2024/08/com.openwall.John.png">
-  <img align="center" alt="Detect It Easy"  height="45" width="45" src="https://appimage.github.io/database/Detect_It_Easy/icons/256x256/die.png">
-  <img align="center" alt="PEStudio"        height="45" width="45" src="https://images2.imgbox.com/64/f0/EyhKJesQ_o.jpg">
-</div>
+<p>
+  <img alt="Parrot OS" height="45" width="45" src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9">
+  <img alt="Kali Linux" height="45" width="45" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU">
+  <img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Bash" height="45" width="45" src="https://play-lh.googleusercontent.com/3uDZbNRzzbv-80moVQ_ompa4HnQ6G9ZNVid5tQYWhc9y-LXTzdr-DD55e-H-MChTzsM=w240-h480-rw">
+  <img alt="SQL" height="45" width="45" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png">
+  <img alt="Metasploit" height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490">
+  <img alt="Burp Suite" height="45" width="45" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
+  <img alt="Nmap" height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg">
+  <img alt="Wireshark" height="45" width="45" src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_2eT4Ah.png">
+  <img alt="OWASP ZAP" height="45" width="45" src="https://www.3elos.com.br/blog/images/zap-logo.png">
+  <img alt="SQLMap" height="45" width="45" src="images/sqlmap.png">
+  <img alt="Hashcat" height="45" width="45" src="https://www.myqnap.org/wp-content/uploads/hashcat-icon.png">
+  <img alt="John the Ripper" height="45" width="45" src="https://dashboard.snapcraft.io/site_media/appmedia/2024/08/com.openwall.John.png">
+  <img alt="Detect It Easy" height="45" width="45" src="https://appimage.github.io/database/Detect_It_Easy/icons/256x256/die.png">
+  <img alt="PEStudio" height="45" width="45" src="https://images2.imgbox.com/64/f0/EyhKJesQ_o.jpg">
+</p>
 
 <br>
 
@@ -75,9 +74,9 @@
 
 ## 🥇 Certifications & Badges
 
-| Badge | Cert | Badge |
-|:--:|:--:|:--:|
-| <p align="center"><a href="https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900" width="90" height="90"></a><br><strong>Microsoft SC-900</strong></p> | <p align="center"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Pentest do Zero ao Profissional" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> | <p align="center"><a href="https://certs.ine.com/5d48fef9-f80d-48e5-b258-ab2e9264ccd9#acc.8tAzxbMD" target="_blank"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPT v2" width="90" height="90"></a><br><strong>INE eJPT v2</strong></p> |
+| | | | |
+|:--:|:--:|:--:|:--:|
+| <p align="center"><a href="https://labs.cyberwarfare.live/credential/achievement/69ebe721656268169c3ef458" target="_blank"><img src="badges/crta.webp" alt="CRTA" width="90" height="90"></a><br><strong>CRTA<br>CyberWarfare</strong></p> | <p align="center"><a href="https://certs.ine.com/5d48fef9-f80d-48e5-b258-ab2e9264ccd9#acc.8tAzxbMD" target="_blank"><img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" alt="eJPT v2" width="90" height="90"></a><br><strong>INE eJPT v2</strong></p> | <p align="center"><a href="https://learn.microsoft.com/api/credentials/share/pt-br/scripthit/B5785894B82B286E?sharingId=36C9293D58F3624A" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="SC-900" width="90" height="90"></a><br><strong>Microsoft SC-900</strong></p> | <p align="center"><a href="https://solyd.com.br/verificar/fTtJgQ7v6R/" target="_blank"><img src="https://cdn.ead.guru/74/media/public/websites/sites-solyd/solyd_one_sycp_logo.webp" alt="Pentest do Zero ao Profissional" width="90" height="90"></a><br><strong>Pentest do Zero<br>ao Profissional v2023</strong></p> |
 
 <a href="https://github.com/5kr1pt" target="_blank">
   <img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
@@ -87,10 +86,6 @@
 
 <table>
   <tr>
-    <td align="center" width="160">
-      <img src="badges/crta.webp" alt="CRTA" height="90"><br>
-      <strong>CRTA<br>CyberWarfare</strong>
-    </td>
     <td align="center" width="160">
       <img src="badges/cwhi.png" alt="CWHI" height="90"><br>
       <strong>CWHI<br>HackingClub</strong>
@@ -113,7 +108,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://geps.dev/progress/98" alt="98%"></td>
     <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td>
     <td align="center"><img src="https://geps.dev/progress/60" alt="60%"></td>
     <td align="center"><img src="https://geps.dev/progress/30" alt="30%"></td>
@@ -155,7 +149,11 @@
 ## 📈 Stats
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=5kr1pt&show_icons=true&bg_color=0d1117&title_color=13AC00&icon_color=13AC00&text_color=ffffff&border_color=333333&count_private=true&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kr1pt&layout=compact&bg_color=0d1117&title_color=13AC00&text_color=ffffff&border_color=333333&hide_border=false" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=5kr1pt&theme=dark&background=0D1117&border=333333&stroke=13AC00&ring=13AC00&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=13AC00&sideLabels=13AC00&dates=888888" />
 </div>
 
 <img src="images/purple_divider.png" alt="divider" width="100%" height="14">
