@@ -47,7 +47,24 @@
 
 ## 🛠️ Tech Stack
 
-<img alt="Parrot OS" height="45" width="45" src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9"><img alt="Kali Linux" height="45" width="45" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU"><img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img alt="Bash" height="45" width="45" src="https://play-lh.googleusercontent.com/3uDZbNRzzbv-80moVQ_ompa4HnQ6G9ZNVid5tQYWhc9y-LXTzdr-DD55e-H-MChTzsM=w240-h480-rw"><img alt="SQL" height="45" width="45" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png"><img alt="Metasploit" height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490"><img alt="Burp Suite" height="45" width="45" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"><img alt="Nmap" height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg"><img alt="Wireshark" height="45" width="45" src="https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_2eT4Ah.png"><img alt="OWASP ZAP" height="45" width="45" src="https://www.3elos.com.br/blog/images/zap-logo.png"><img alt="SQLMap" height="45" width="45" src="images/sqlmap.png"><img alt="Hashcat" height="45" width="45" src="https://www.myqnap.org/wp-content/uploads/hashcat-icon.png"><img alt="John the Ripper" height="45" width="45" src="https://dashboard.snapcraft.io/site_media/appmedia/2024/08/com.openwall.John.png"><img alt="Detect It Easy" height="45" width="45" src="https://appimage.github.io/database/Detect_It_Easy/icons/256x256/die.png"><img alt="PEStudio" height="45" width="45" src="https://images2.imgbox.com/64/f0/EyhKJesQ_o.jpg">
+<p align="left">
+  <img alt="Parrot OS" height="45" width="45" src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" />
+  <img alt="Kali Linux" height="45" width="45" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU" />
+  <img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="Bash" height="45" width="45" src="https://play-lh.googleusercontent.com/3uDZbNRzzbv-80moVQ_ompa4HnQ6G9ZNVid5tQYWhc9y-LXTzdr-DD55e-H-MChTzsM=w240-h480-rw" />
+  <img alt="SQL" height="45" width="45" src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" />
+  <img alt="Metasploit" height="45" width="45" src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490" />
+  <img alt="Burp Suite" height="45" width="45" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" />
+  <img alt="Nmap" height="45" width="45" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" />
+  <img alt="Wireshark" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
+  <img alt="OWASP ZAP" height="45" width="45" src="https://www.3elos.com.br/blog/images/zap-logo.png" />
+  <img alt="SQLMap" height="45" width="45" src="images/sqlmap.png" />
+  <img alt="Hashcat" height="45" width="45" src="https://www.myqnap.org/wp-content/uploads/hashcat-icon.png" />
+  <img alt="John the Ripper" height="45" width="45" src="https://dashboard.snapcraft.io/site_media/appmedia/2024/08/com.openwall.John.png" />
+  <img alt="Detect It Easy" height="45" width="45" src="https://appimage.github.io/database/Detect_It_Easy/icons/256x256/die.png" />
+  <img alt="PEStudio" height="45" width="45" src="https://images2.imgbox.com/64/f0/EyhKJesQ_o.jpg" />
+</p>
 
 <br>
 
