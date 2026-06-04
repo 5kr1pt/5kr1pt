@@ -154,9 +154,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5kr1pt&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5kr1pt&theme=github_dark" />
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=5kr1pt&theme=dark&background=0D1117&border=333333&stroke=13AC00&ring=13AC00&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=13AC00&sideLabels=13AC00&dates=888888" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5kr1pt&theme=github_dark" />
 </div>
 
 <img src="images/purple_divider.png" alt="divider" width="100%" height="14">
