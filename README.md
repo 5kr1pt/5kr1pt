@@ -151,8 +151,11 @@
 ## 📈 Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=5kr1pt&show_icons=true&bg_color=0d1117&title_color=13AC00&icon_color=13AC00&text_color=ffffff&border_color=333333&count_private=true&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5kr1pt&layout=compact&bg_color=0d1117&title_color=13AC00&text_color=ffffff&border_color=333333&hide_border=false" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5kr1pt&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5kr1pt&theme=github_dark" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5kr1pt&theme=github_dark" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=5kr1pt&theme=dark&background=0D1117&border=333333&stroke=13AC00&ring=13AC00&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=13AC00&sideLabels=13AC00&dates=888888" />
