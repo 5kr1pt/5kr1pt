@@ -27,7 +27,12 @@
   <a href="https://www.linkedin.com/in/pgw-script" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
+  &nbsp;
+  <a href="https://5kr1pt.github.io/krpt/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20my%20Resume-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="Resume">
+  </a>
 </p>
+
 
 <a href="https://github.com/5kr1pt" target="_blank">
   <img src="images/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
